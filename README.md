@@ -92,7 +92,7 @@
 ---
   **No var Style Or Walrus Operator (:=)**
 
-    3. website := "debadritaghosh.tech" //Inside the metod we can use := operator
+    3. website := "debadritaghosh.tech" // Inside the metod we can use := operator
 
 
 #
