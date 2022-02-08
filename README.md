@@ -95,6 +95,6 @@
     3. website := "debadritaghosh.tech" // Inside the metod we can use := operator
 
 ---
-#Exercise Folder  
+# Exercise (Programs)
 	1. Add two numbers.  
 	2. swap two numbers(with extra variable & without extra variable).  
