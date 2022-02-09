@@ -18,4 +18,5 @@ func main() {
 	//Delete
 	delete(languages, "RB")
 	fmt.Println(languages)
+
 }
