@@ -93,6 +93,23 @@
   **No var Style Or Walrus Operator (:=)**
 
     3. website := "debadritaghosh.tech" // Inside the metod we can use := operator
+---
+# Pointer
+
+---
+# Arrays & Slices & Maps
+
+---
+# Structs
+
+---
+# Functions & Methods
+
+---
+# Defer & Panic
+
+---
+# Handling Web Requests
 
 ---
 # Exercise (Programs)
