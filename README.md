@@ -117,7 +117,15 @@ __* Operator__ :
  - It is just like an array having an index value and length, but the size of the slice is resized they are not in fixed-size just like an array.
  - Internally, slice and an array are connected with each other, a slice is a reference to an underlying array. 
  - It is allowed to store duplicate elements in the slice. 
- ***The first index position in a slice is always 0 and the last one will be (length of slice – 1)***
+ - The first index position in a slice is always 0 and the last one will be (length of slice – 1)
+
+***Ways to declare slices***
+
+    ` s := []int{3,4,5}  // Initializing with values
+      s := []int{} //Initialize with values,momory is allocated    
+      var s []int //Declared as slice but no memory allocated
+      s := make([]int,5,10) //initialized with no values,Allocated memory 
+    
 ---
 # Maps
 - In Go language, a map is a powerful, ingenious, and versatile data structure. 
